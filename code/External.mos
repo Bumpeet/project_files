@@ -1,0 +1,4 @@
+loadFile("ISOM.mo"); getErrorString();
+loadFile("Chemsep_Database.mo");getErrorString();
+loadFile("Functions.mo");getErrorString();
+simulate(ISOM.PFR, numberOfIntervals=3, stopTime=15.92, outputFormat="csv");getErrorString();
