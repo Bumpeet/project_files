@@ -1,5 +1,5 @@
 # project_files
-This is my MTP files
+This are my MTP files
 
 Step for running the ISOM model
 1) Edit the parameters of the PFR model ISOM.mo in the OpenModelica editor.
